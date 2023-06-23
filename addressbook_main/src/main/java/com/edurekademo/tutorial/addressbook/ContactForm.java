@@ -40,7 +40,11 @@ public class ContactForm extends FormLayout {
         configureComponents();
         buildLayout();
     }
-
+	
+/*
+ * adding some comments Testing poll scm
+ */
+	
     private void configureComponents() {
         /*
          * Highlight primary actions.
